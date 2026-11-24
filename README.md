@@ -35,7 +35,7 @@ This application helps users generate creative restaurant names based on their s
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt  (if u created it ... im haven't)
    ```
 
 4. Run the application:
